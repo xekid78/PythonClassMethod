@@ -8,7 +8,7 @@
 ```
 class Greeting:
     @classmethod
-    def helloworld(self):
+    def helloworld(cls):
         print("hello world")
 
 gree = Greeting()
